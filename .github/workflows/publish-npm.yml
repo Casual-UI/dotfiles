@@ -21,6 +21,8 @@ jobs:
         uses: pnpm/action-setup@v2.2.4
         with: 
           version: 7.14.0
+      - name: Install Dependencies
+        run: pnpm i
       - name: Create release and publish to npm
         id: changesets
         uses: changesets/action@v1
