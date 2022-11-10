@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.0.5
+
+### Patch Changes
+
+- a20eefd: change custom event to kebab-case
+
 ## 0.0.4
 
 ### Patch Changes
