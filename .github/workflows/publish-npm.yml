@@ -22,7 +22,7 @@ jobs:
         with: 
           version: 7.14.0
       - name: Install Dependencies
-        run: pnpm i --frozen-lockfile
+        run: pnpm i
       - name: Create release and publish to npm
         id: changesets
         uses: changesets/action@v1
