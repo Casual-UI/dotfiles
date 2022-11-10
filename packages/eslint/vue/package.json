@@ -13,7 +13,7 @@
     "name": "Dongsheng Zhao"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@antfu/eslint-config-vue": "^0.29.4"
   }
 }

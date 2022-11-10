@@ -14,7 +14,7 @@
     "name": "Dongsheng Zhao"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@antfu/eslint-config-ts": "^0.29.4"
   }
 }
