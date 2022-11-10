@@ -1,0 +1,15 @@
+{
+  "name": "@casual-ui/dotfiles",
+  "version": "0.0.1",
+  "description": "The dotfiles for casual ui",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.25.2"
+  }
+}
