@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "The dotfiles for casual ui",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "tsc"
   },
