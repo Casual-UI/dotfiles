@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.0.6
+
+### Patch Changes
+
+- b802223: feat: add eslint as peerDependency
+
 ## 0.0.5
 
 ### Patch Changes
