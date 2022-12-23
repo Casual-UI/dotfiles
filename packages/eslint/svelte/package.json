@@ -11,7 +11,12 @@
   ],
   "author": "",
   "license": "MIT",
-  "devDependencies": {
-    "@casual-ui/eslint-config-typescript": "workspace:*"
+  "dependencies": {
+    "@casual-ui/eslint-config-typescript": "workspace:*",
+    "eslint-plugin-svelte3": "^4.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^4.9.4",
+    "eslint": "^8.30.0"
   }
 }
