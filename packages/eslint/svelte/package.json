@@ -1,0 +1,17 @@
+{
+  "name": "@casual-ui/eslint-config-svelte",
+  "version": "0.0.1",
+  "description": "The svelte eslint config of casual ui",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslint config",
+    "eslint config svelte",
+    "eslint config svelte typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@casual-ui/eslint-config-typescript": "workspace:*"
+  }
+}
