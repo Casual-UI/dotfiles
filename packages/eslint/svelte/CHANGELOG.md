@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.0.5
+
+### Patch Changes
+
+- 9043482: feat: operator after
+
 ## 0.0.4
 
 ### Patch Changes
