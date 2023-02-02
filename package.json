@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "tsc"
+    "release": "changeset publish"
   },
   "keywords": [],
   "author": "",

@@ -22,5 +22,9 @@ module.exports = {
   ],
   "settings": {
     "svelte3/typescript": true
+  },
+  "rules": {
+    // Conflict with svelte prettier plugin
+    'antfu/if-newline': 'off',
   }
 }
