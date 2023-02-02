@@ -26,5 +26,6 @@ module.exports = {
   "rules": {
     // Conflict with svelte prettier plugin
     'antfu/if-newline': 'off',
+    'operator-linebreak': ['error', 'after', { overrides: { '?': 'before', ':': 'before' } }],
   }
 }
