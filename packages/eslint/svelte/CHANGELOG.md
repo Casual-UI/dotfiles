@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.0.4
+
+### Patch Changes
+
+- 4eca8c4: feat: turn off antfu/if-newline in svelte
+
 ## 0.0.3
 
 ### Patch Changes
