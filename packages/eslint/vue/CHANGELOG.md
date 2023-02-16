@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.1.0
+
+### Minor Changes
+
+- 7659a82: chore: update antfu's config to the latest version
+
 ## 0.0.6
 
 ### Patch Changes

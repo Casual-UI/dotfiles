@@ -1,5 +1,16 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.1.0
+
+### Minor Changes
+
+- 7659a82: chore: update antfu's config to the latest version
+
+### Patch Changes
+
+- Updated dependencies [7659a82]
+  - @casual-ui/eslint-config-typescript@0.1.0
+
 ## 0.0.5
 
 ### Patch Changes
