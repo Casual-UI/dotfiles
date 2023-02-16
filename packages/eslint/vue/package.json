@@ -1,6 +1,6 @@
 {
   "name": "@casual-ui/eslint-config-vue",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "The basic eslint config of casual ui",
   "main": "index.js",
   "scripts": {},
