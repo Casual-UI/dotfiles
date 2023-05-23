@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "release": "changeset publish"
+    "release": "changeset publish --no-git-checks"
   },
   "keywords": [],
   "author": "",
