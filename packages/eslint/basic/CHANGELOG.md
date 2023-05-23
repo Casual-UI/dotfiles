@@ -1,17 +1,5 @@
 # @casual-ui/eslint-config-basic
 
-## 0.3.0
-
-### Minor Changes
-
-- 81e9938: chore: update deps
-
-## 0.2.0
-
-### Minor Changes
-
-- e034184: chore: update deps
-
 ## 0.1.0
 
 ### Minor Changes
