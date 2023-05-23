@@ -14,7 +14,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-vue": "^0.35.2"
+    "@antfu/eslint-config-vue": "^0.39.2",
+    "eslint": "^8.41.0"
   },
   "peerDependencies": {
     "eslint": "^8.30.0"
