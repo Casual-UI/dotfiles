@@ -1,5 +1,16 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.2.0
+
+### Minor Changes
+
+- 64ff434: chore: update deps
+
+### Patch Changes
+
+- Updated dependencies [64ff434]
+  - @casual-ui/eslint-config-typescript@0.2.0
+
 ## 0.1.0
 
 ### Minor Changes
