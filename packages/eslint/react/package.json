@@ -1,6 +1,6 @@
 {
   "name": "@casual-ui/eslint-config-react",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "The basic eslint config of casual ui",
   "main": "index.js",
   "scripts": {},
