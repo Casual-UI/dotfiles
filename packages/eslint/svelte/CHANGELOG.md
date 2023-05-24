@@ -1,5 +1,16 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.3.0
+
+### Minor Changes
+
+- cfe1894: chore: optimize deps
+
+### Patch Changes
+
+- Updated dependencies [cfe1894]
+  - @casual-ui/eslint-config-typescript@0.3.0
+
 ## 0.2.0
 
 ### Minor Changes
