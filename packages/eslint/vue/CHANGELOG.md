@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.3.0
+
+### Minor Changes
+
+- cfe1894: chore: optimize deps
+
 ## 0.2.0
 
 ### Minor Changes
