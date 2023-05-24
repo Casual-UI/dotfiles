@@ -14,7 +14,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-react": "^0.39.2",
+    "@antfu/eslint-config-react": "^0.39.3"
+  },
+  "devDependencies": {
     "eslint": "^8.41.0"
   },
   "peerDependencies": {
