@@ -1,5 +1,13 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.3.1
+
+### Patch Changes
+
+- 354e867: chore: update lock file
+- Updated dependencies [354e867]
+  - @casual-ui/eslint-config-typescript@0.3.1
+
 ## 0.3.0
 
 ### Minor Changes
