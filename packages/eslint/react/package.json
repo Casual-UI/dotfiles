@@ -14,10 +14,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-react": "^0.39.3"
+    "@antfu/eslint-config-react": "^0.39.5"
   },
   "devDependencies": {
-    "eslint": "^8.41.0"
+    "eslint": "^8.43.0"
   },
   "peerDependencies": {
     "eslint": "^8.30.0"
