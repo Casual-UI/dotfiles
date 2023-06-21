@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.3.2
+
+### Patch Changes
+
+- f763f7a: chore: update deps
+
 ## 0.3.1
 
 ### Patch Changes
