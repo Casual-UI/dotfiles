@@ -1,5 +1,12 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.3.2
+
+### Patch Changes
+
+- Updated dependencies [f763f7a]
+  - @casual-ui/eslint-config-typescript@0.3.2
+
 ## 0.3.1
 
 ### Patch Changes
