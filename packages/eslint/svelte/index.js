@@ -3,7 +3,6 @@ module.exports = {
     "plugin:svelte/recommended"
   ],
   parserOptions: {
-    project: "./tsconfig.json",
     extraFileExtensions: [".svelte"],
   },
   overrides: [
