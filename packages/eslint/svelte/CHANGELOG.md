@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.5.0
+
+### Minor Changes
+
+- 6804976: fix: disable all rules conflict with svelte syntax or prettier rule
+
 ## 0.4.1
 
 ### Patch Changes
