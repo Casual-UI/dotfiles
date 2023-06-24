@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.4.1
+
+### Patch Changes
+
+- 2a18969: fix: extends ts basic
+
 ## 0.4.0
 
 ### Minor Changes
