@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.4.0
+
+### Minor Changes
+
+- cd4263f: feat: use eslint-plugin-svelte
+
 ## 0.3.2
 
 ### Patch Changes
