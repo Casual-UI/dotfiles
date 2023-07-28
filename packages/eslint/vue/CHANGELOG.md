@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.4.0
+
+### Minor Changes
+
+- d745463: chore: update deps
+
 ## 0.3.2
 
 ### Patch Changes
