@@ -15,12 +15,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-ts": "^0.39.5"
+    "@antfu/eslint-config-ts": "^0.39.8"
   },
   "devDependencies": {
-    "eslint": "^8.43.0"
+    "eslint": "^8.45.0"
   },
   "peerDependencies": {
-    "eslint": "^8.30.0"
+    "eslint": "^8.45.0"
   }
 }
