@@ -16,10 +16,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-basic": "^0.39.8"
+    "@antfu/eslint-config-basic": "^0.43.1"
   },
   "devDependencies": {
-    "eslint": "^8.45.0"
+    "eslint": "^8",
+    "typescript": "^5"
   },
   "peerDependencies": {
     "eslint": "^8.45.0"
