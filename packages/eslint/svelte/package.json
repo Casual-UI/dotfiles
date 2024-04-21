@@ -9,7 +9,10 @@
     "eslint config svelte",
     "eslint config svelte typescript"
   ],
-  "author": "",
+  "author": {
+    "email": "119760272@qq.com",
+    "name": "Dongsheng Zhao"
+  },
   "license": "MIT",
   "dependencies": {
     "@casual-ui/eslint-config-typescript": "workspace:*",
