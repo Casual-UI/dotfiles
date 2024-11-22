@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-react
 
+## 0.6.0
+
+### Minor Changes
+
+- eb0ad61: feat: migrate eslint to v9
+
 ## 0.5.0
 
 ### Minor Changes
