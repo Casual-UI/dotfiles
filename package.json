@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@changesets/cli": "^2.27.1"
+    "typescript": "catalog:",
+    "eslint": "catalog:",
+    "@changesets/cli": "^2.27.1",
+    "@casual-ui/eslint-config-basic": "workspace:*"
   }
 }

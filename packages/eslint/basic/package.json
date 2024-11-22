@@ -2,9 +2,16 @@
   "name": "@casual-ui/eslint-config-basic",
   "version": "0.5.0",
   "description": "The basic eslint config of casual ui",
-  "main": "index.js",
+  "main": "./dist/index.mjs",
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs"
+    }
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "unbuild",
+    "prepare": "unbuild"
   },
   "keywords": [
     "eslint",
@@ -16,13 +23,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@antfu/eslint-config-basic": "^0.43.1"
+    "@antfu/eslint-config": "catalog:"
   },
   "devDependencies": {
-    "eslint": "^8",
-    "typescript": "^5"
+    "unbuild": "catalog:"
   },
   "peerDependencies": {
-    "eslint": "^8.45.0"
+    "eslint": "^9"
   }
 }

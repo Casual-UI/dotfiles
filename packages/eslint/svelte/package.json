@@ -2,7 +2,17 @@
   "name": "@casual-ui/eslint-config-svelte",
   "version": "0.7.0",
   "description": "The svelte eslint config of casual ui",
-  "main": "index.js",
+  "main": "./dist/index.mjs",
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "scripts": {
+    "build": "unbuild",
+    "prepare": "unbuild"
+  },
   "keywords": [
     "eslint",
     "eslint config",
@@ -15,11 +25,14 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@casual-ui/eslint-config-typescript": "workspace:*",
-    "eslint-plugin-svelte": "^2.37.0"
+    "@antfu/eslint-config": "catalog:",
+    "eslint-plugin-svelte": "^2.46.0"
+  },
+  "devDependencies": {
+    "unbuild": "catalog:"
   },
   "peerDependencies": {
-    "eslint": "^8",
+    "eslint": "^9",
     "typescript": "^5.0.0"
   }
 }
