@@ -1,5 +1,11 @@
 # @casual-ui/eslint-config-svelte
 
+## 0.8.0
+
+### Minor Changes
+
+- eb0ad61: feat: migrate eslint to v9
+
 ## 0.7.0
 
 ### Minor Changes

@@ -1,6 +1,6 @@
 {
   "name": "@casual-ui/eslint-config-svelte",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "The svelte eslint config of casual ui",
   "main": "./dist/index.mjs",
   "exports": {

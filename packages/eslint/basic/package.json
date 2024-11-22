@@ -1,6 +1,6 @@
 {
   "name": "@casual-ui/eslint-config-basic",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "The basic eslint config of casual ui",
   "main": "./dist/index.mjs",
   "exports": {
